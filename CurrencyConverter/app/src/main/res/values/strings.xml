@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="usdtobdt">USD -> BDT</string>
+    <string name="bdttousd">BDT -> USD</string>
+</resources>
